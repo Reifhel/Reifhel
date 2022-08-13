@@ -1,7 +1,9 @@
-## Olaaaa, sou Rafael Schmitz Herdt 👋
-#### Alguns me chamam de Reifhel, sinta-se livre pra escolher como me chamar...
-#### Sou estudante de Ciencia da Computação na PUC-PR (2021 - 2025)
-#### Também sou artista amador, sinta-se livre para verificar meu portfólio -> https://reifhel.artstation.com
+<div align="center">
+  <h1> Hello there!!! Welcome to my portfolio! 👋 <h1> 
+  <h3> I'm Rafael Schmitz Herdt, but you can call me Reifhel if you prefer... <h3>
+  <h3> Computer science student in PUCPR(2021-2025), developer and amateur artist <h3>
+  <h3> Art portfolio -> https://reifhel.artstation.com <h3>
+</div>
 
 ##
 
