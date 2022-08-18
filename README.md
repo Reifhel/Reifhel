@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">
   <em>
-    <b> A nice person who grow up with the tecnology 👨‍💻 and sometimes try make art 👨‍🎨</b>
+    <b> A nice person who grew up with the tecnology 👨‍💻 and sometimes try make art 👨‍🎨</b>
   </em>
 </h3>
 
