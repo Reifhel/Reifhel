@@ -24,10 +24,10 @@
 <summary>
   <b>Talk with me:</b>
 </summary>
-<a href="https://www.linkedin.com/in/rafael-schmitz-b18816209" target="blank"><img heigth="50" align="center"
+<a href="https://www.linkedin.com/in/rafael-schmitz-b18816209" target="_blank"><img heigth="50" align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="rafael schmitz" height="30" width="40" /></a>
- <a href="https://instagram.com/reifhel_schmitz" target="blank"><img align="center" heigth="50"
+ <a href="https://instagram.com/reifhel_schmitz" target="_blank"><img align="center" heigth="50"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="reifhel_schmitz" height="30" width="40" /></a>
 </details>
