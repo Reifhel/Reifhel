@@ -14,7 +14,7 @@
   - 🎨 Sometimes i like to draw, you can check this in <a href="https://reifhel.artstation.com" target="_blank">my art portfolio</a>
   - 🎲 Dev Junior
   - 🎮 Trying job in game design 
-  - 🥤 Music + Coca-Cola = **⚡ Produtivy ⚡**
+  - 🥤 Music + Coca-Cola = **⚡ Productivity ⚡**
   - 🤖 AI lover
   > “The truth is often what we make of it; you heard what you wanted to hear, believed what you wanted to believe.” - Obi-Wan
 
