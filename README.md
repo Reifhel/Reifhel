@@ -68,7 +68,7 @@
 ##
   
 <div align="center">
-  <img src="https://github.com/Reifhel/Reifhel/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Reifhel/Reifhel/output/snake.svg" alt="Snake animation" />
 </div>
   
 
