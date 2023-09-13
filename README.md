@@ -60,12 +60,8 @@
   <h3>
     ⚙️ Github Analytics:
   </h3>
-   <a href="https://github.com/Reifhel">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reifhel&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
-   </a>
-   <a href="https://github.com/Reifhel">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reifhel&layout=compact&langs_count=8&theme=midnight-purple"/>
-   </a>
 </div>
 
 ##
