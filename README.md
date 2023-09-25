@@ -60,8 +60,13 @@
   <h3>
     ⚙️ Github Analytics:
   </h3>
-      ![Reifhel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reifhel&show_icons=true&theme=midnight-purple)
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reifhel)](https://github.com/anuraghazra/github-readme-stats)
+   <a href="https://github.com/Reifhel">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Reifhel&theme=midnight-purple" />
+   </a>
+   <a href="https://github.com/Reifhel">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reifhel&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+   </a>
+</div>
 </div>
 
 ##
