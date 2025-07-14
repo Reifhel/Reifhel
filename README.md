@@ -10,10 +10,8 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### About me: 
-  - 👨‍🎓 I'm a computer science student in PUCPR(2021-2025) 
-  - 🎨 Sometimes i like to draw, you can check this in <a href="https://reifhel.artstation.com" target="_blank">my art portfolio</a>
+  - 👨‍🎓 I'm a computer scientist by PUCPR(2021-2025) 
   - 🎲 Dev Junior
-  - 🎮 Trying job in game design 
   - 🥤 Music + Coca-Cola = **⚡ Productivity ⚡**
   - 🤖 AI lover
   > “The truth is often what we make of it; you heard what you wanted to hear, believed what you wanted to believe.” - Obi-Wan
